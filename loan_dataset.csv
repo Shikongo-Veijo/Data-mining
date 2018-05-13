@@ -1,0 +1,56 @@
+Loan_ID,Gender,Applicant_Surname,Applicant_Name,Married,Dependents,Education,Applicant_Income,Loan_Amount,Credit_History,Property_Area,Credit_Bureau_Record,Bank_Name,Employer,DoB,Coapplicant_Income,Cellphone,Loan_Status
+LP0001,Male,Shigwedha,Victor,Yes,3,Graduate,8800,2000,1,Urban,Clear,FNB,Ministry of Education,24/Jan/82,8000,081 2489625,Yes
+LP0002,Female,Katondo,Hilya,No,1,Not Graduate,5000,3000,1,Urban,Clear,FNB,Self-Employed,10/Feb/81,8800,085 2588123,Yes
+LP0003,Female,Hindinwa,Selma,No,2,Graduate,8000,5500,1,Semi-Urban,Black-Listed,Standard Bank,Ministry of Safety,18/Mar/91,4580,081 5588210   ,No
+LP0004,Male,Katelehingo,Hosean,Yes,4,Graduate,8800,12000,1,Rural,Black-Listed,FNB,Ministry of Defence,12/Aug/85,4500,081 9001001,No
+LP0006,Male,Shigwedha,Thomas,Yes,0,Not Graduate,11000,9000,1,Semi-Urban,Clear,FNB,Self-Employed,11/May/88,6000,085 5502250,Yes
+LP0007,Male,Nghipangelwa ,Phillips,No,1,Graduate,9250,12000,0,Urban,Clear,FNB,Ministry of Education,02/Feb/90,0,085 4552001,Yes
+LP0008,Male,Joshua,Antonia,No,1,Graduate,4500,8000,0,Urban,Clear,Bank Windhoek,Self-Employed,20/Sep/72,8100,081 2525001,Yes
+LP0009,Male,Jason,Hosean,No,2,Not Graduate,12500,15000,1,Rural,Black-Listed,Bank Windhoek,Self-Employed,23/May/80,4500,061 255630,No
+LP0011,Female,Vaakura ,Aino,No,2,Graduate,8800,5000,2,Rural,Clear,Standard Bank,Self-Employed,15/Sep/81,15000,081 3721051,Yes
+LP0013,Female,Pishon,Erastus,Yes,0,Not Graduate,8500,15000,2,Urban,Clear,Bank Windhoek,NUST,15/Oct/90,1800,081 3545120,Yes
+LP0014,Male,Blessings ,Erastus,Yes,2,Not Graduate,10000,14000,1,Urban,Clear,FNB,NSA,13/Nov/80,1200,081 5542000,Yes
+LP0015,Male,Ignatius ,Shikongo,Yes,3,Graduate,8800,7000,1,Rural,Black-Listed,Standard Bank,Grove Mall,18/Jan/72,5600,067 281440,No
+LP0016,Male,Isack,Isack,Yes,4,Graduate,8800,5500,1,Rural,Black-Listed,FNB,Ministry of Defence,17/Dec/93,1000,061 252060,No
+LP0017,Female,Naemi,Hangula,Yes,5,Graduate,8800,8800,0,Semi-Urban,Clear,FNB,Ministry of Safety,17/Jan/90,5000,081 6554110,Yes
+LP0018,Male,Onesmus,Cleopas,No,4,Not Graduate,8800,8000,0,Semi-Urban,Clear,Standard Bank,Minstry of Labour,12/Jan/83,8500,081 3454855,Yes
+LP0019,Male,Shilongo,Kanime,No,1,Graduate,7700,6000,1,Urban,Clear,Ned Bank,MTC,17/Jan/89,1500,081 8088251,No
+LP0020,Female,Eva,Kandume,No,2,Not Graduate,12000,10000,0,Urban,Clear,Ned Bank,Telecom,25/Oct/88,5500,081 4441001,Yes
+LP0021,Male,Alweendo,Jeremia,Yes,5,Graduate,8800,15000,1,Semi-Urban,Black-Listed,Ned Bank,Self-Employed,11/Jan/94,12000,081 5623004,No
+LP0022,Female,Shimbulo,Hilma,No,2,Graduate,11000,12000,2,Semi-Urban,Clear,FNB,Nammic,04/Aug/91,9900,085 2453486,Yes
+LP0023,Female,Ampweya,Selma,Yes,2,Not Graduate,10000,15000,1,Urban,Clear,FNB,Furnmart,26/Jun/86,3500,068 252542,Yes
+LP0025,Male,Nujoma,Silas,No,4,Graduate,8800,11000,0,Rural,Clear,FNB,Ministry of Education,01/Oct/78,0,081 2520001,Yes
+LP0027,Female,Shipingana,Alina,No,1,Not Graduate,5000,10000,2,Rural,Black-Listed,FNB,Street house,22/Sep/84,1000,061 275520,No
+LP0028,Male,Nujoma,Elago,No,0,Graduate,4800,7500,3,Urban,Black-Listed,Ned Bank,Ned Bank,31/Jan/69,6600,081 4802218,No
+LP0029,Female,Mhanda,Aletta,Yes,3,Not Graduate,8800,8000,1,Semi-Urban,Clear,FNB,Eangle Security,28/Feb/77,1000,081 6542205,Yes
+LP0030,Male,Iita,Abel,No,5,Not Graduate,8800,14000,2,Semi-Urban,Clear,Bank Windhoek,Ministry of Defence,03/Jul/76,7500,081 2241435,Yes
+LP0031,Male,Alex,Alex,Yes,2,Graduate,9000,12000,0,Urban,Clear,FNB,Virgin Active,08/Apr/94,8500,068 248524,Yes
+LP0032,Female,Simon,Aina,Yes,2,Not Graduate,4500,9000,1,Urban,Clear,Standard Bank,Pick'n'Pay,25/Jun/81,0,065 254551,No
+LP0033,Female,Kamati,Naindila,No,1,Not Graduate,7800,10000,1,Rural,Clear,FNB,Clicks,01/Jun/94,2500,064 243225,Yes
+LP0034,Male,Ndangi,Joel,Yes,0,Graduate,10500,12000,0,Rural,Clear,FNB,NUST,27/Apr/80,12000,081 5554203,Yes
+LP0035,Male,Kamati,Eliaser,No,3,Graduate,8800,15000,0,Semi-Urban,Clear,FNB,Healthy Phamarncy,24/Sep/93,8000,081 255495,Yes
+LP0037,Female,Kanana,Salmi,No,3,Graduate,8800,15000,1,Rural,Black-Listed,Bank Windhoek,Monitronics College,12/Nov/93,5000,085 2725833,No
+LP0038,Male,Simon,Joshua,Yes,3,Graduate,8800,15000,3,Rural,Black-Listed,Bank Windhoek,Ministry of Works and transport,15/Feb/88,6600,081 2554557,No
+LP0039,Male,Shooya,Naftal,No,2,Not Graduate,6650,8500,2,Rural,Black-Listed,Standard Bank,Path Care,11/Nov/82,7300,085 2553586,Yes
+LP0040,Male,Hashiyana,Mateus,Yes,1,Graduate,17000,20000,2,Semi-Urban,Clear,Standard Bank,UNAM,07/Oct/85,2000,085 2665996,Yes
+LP0041,Female,Shooya,Wester,No,3,Graduate,8800,11500,1,Urban,Clear,Bank Windhoek,Nammic,23/Mar/85,7000,081 2566332,No
+LP0044,Female,Angula,Hertha,Yes,2,Graduate,12000,18000,2,Semi-Urban,Clear,FNB,Ministry of Education,29/Aug/83,5000,068 245255,Yes
+LP0045,Female,Samuel,Ndahafa,No,0,Graduate,15000,13000,1,Semi-Urban,Clear,FNB,NUST,30/Jun/86,3000,061 258885,Yes
+LP0046,Male,Matti,Matti,No,0,Not Graduate,2200,9000,1,Semi-Urban,Clear,Ned Bank,Spar,27/May/91,10000,081 2555142,No
+LP0047,Female,Nakamue,Niita,Yes,5,Graduate,8800,12000,0,Rural,Clear,Standard Bank,Minstry of Labour,24/Feb/95,4500, 081 5522355,Yes
+LP0048,Female,Mateus,Sirka,Yes,1,Graduate,3500,10000,1,Urban,Clear,Ned Bank,Meatco,28/Feb/80,8000,081 2224522,Yes
+LP0049,Male,Andreas ,Shikongo,Yes,2,Graduate,12500,15400,0,Urban,Black-Listed,FNB,Nammic,25/Oct/89,7000,081 2566355,No
+LP0056,Male,James ,Pillo,Yes,2,Graduate,7800,11000,2,Urban,Clear,FNB,Telecom,12/Aug/80,8000,061 255120,Yes
+LP0057,Male,Lucky,Maswahu,Yes,1,Graduate,8800,12500,1,Urban,Black-Listed,Ned Bank,Nammic,11/Jun/81,9500,081 2558996,No
+LP0058,Male,Lala,Jason,No,2,Graduate,14000,11500,2,Rural,Clear,Standard Bank,UNAM,23/Jun/82,7800,081 588556,Yes
+LP0059,Male,Black,Panther,Yes,1,Graduate,12800,13400,3,Urban,Clear,Ned Bank,NUST,27/Jul/84,7000,081 2325259,Yes
+LP0060,Male,Lamar,Kendrick,No,2,Graduate,7800,14500,1,Urban,Black-Listed,Bank Windhoek,NUST,31/Jan/90,6500,081 8285551,No
+LP0061,Female,Shambalula,Fabiola,No,3,Graduate,10000,12000,0,Urban,Clear,FNB,FNB,23/Oct/87,8800,081 1555550,Yes
+LP0062,Female,Kashinasha,Beata,Yes,0,Graduate,8500,9800,0,Semi-Urban,Black-Listed,Bank Windhoek,Cash Converter,12/Apr/89,8500,081 5656231,No
+LP0063,Male,Shambalula,Matti,Yes,0,Graduate,8900,12000,2,Rural,Clear,Standard Bank,Clicks,04/Mar/86,9500,061 255535,No
+LP0064,Male,Katali,David,Yes,1,Not Graduate,8200,10000,1,Rural,Clear,Standard Bank,Pick'n'Pay,23/Aug/88,8000,061 255512,Yes
+LP0067,Male,Bruno,Mars,No,2,Not Graduate,7800,9000,2,Rural,Black-Listed,FNB,Pick'n'Pay,27/Apr/90,4500,067 255550,No
+LP0068,Female,Shimwino,Eben-Ezer,Yes,3,Graduate,8500,10200,2,Semi-Urban,Clear,Ned Bank,Virgin Active,12/Sep/92,7500,061 625252,Yes
+LP0069,Male,Collin,Stanley,Yes,1,Graduate,11500,12500,1,Urban,Clear,Ned Bank,Minstry of Labour,12/Jul/91,6500,081 2555800,Yes
+LP0066,Female,Kahorongo,Maria,No,1,Not Graduate,12500,10000,1,Urban,Clear,Standard Bank,Ministry of Defence,23/Jul/90,5400,081 3535220,Yes
+LP0065,Male,Sikwele,Sebby,Yes,2,Graduate,11000,14000,0,Urban,Black-Listed,Ned Bank,Ministry of Education,21/Jun/89,4000,081 2588771,No

@@ -1,0 +1,6 @@
+Loan_ID,Gender,Applicant_Surname,Applicant_Name,Married,Dependents,Education,Applicant_Income,Loan_Amount,Credit_History,Property_Area,Credit_Beaure_Record,Bank_Name,Employer,DoB,Coapplicant_Income,Cellphone,Loan_Status
+LP0001,Male,Shigwedha,Victor,Yes,3,Graduate,8800,2000,1,Urban,Clear,FNB,Ministry of Education,24-01-1982,8000,081 2489625,Yes
+LP0002,Female,Katondo,Hilya,No,1,Not Graduate,5000,3000,1,Urban,Clear,FNB,Self-Employed,10-02-1981,8800,085 2588123,Yes
+LP0011,Female,Vaakura ,Aino,No,2,Graduate,8800,5000,2,Rural,Clear,Standard Bank,Self-Employed,15-09-1981,15000,081 3721051,Yes
+LP0003,Female,Hindinwa,Selma,No,2,Graduate,8000,5500,1,Semi-Urban,Black-Listed,Standard Bank,Ministry of Safety,18-03-1991,4580,081 5588210   ,No
+LP016,Male,Isack,Isack,Yes,4,Graduate,8800,5500,1,Rural,Black-Listed,FNB,Ministry of Defence,17-12-1993,1000,061 252060,No
