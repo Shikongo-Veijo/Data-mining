@@ -17,7 +17,6 @@ print("Done importing python packages...")
 # File Paths
 input_path= "/home/country_boy/Desktop/dwm/loan_dataset.csv"
 
-
 #Describe the dataset in terms of mean, median, stdDev....
 def dataset_statistics(dataset):
     """
@@ -37,6 +36,12 @@ def random_forest_classifier(features, target):
     clf = RandomForestClassifier()
     clf.fit(features, target)
     return clf
+''' with open("randomForestTree.dot", 'w') as f:  
+        f = tree.export_graphviz(clf, out_file=f)
+
+    import os
+    os.unlink('randomForestTree.dot') '''
+    
 
 
 
@@ -47,6 +52,8 @@ def main():
     """
     # Load the csv file into pandas dataframe
     dataset = pd.read_csv(input_path)
+
+    dataset.head()
     # Get basic statistics of the loaded dataset
     dataset_statistics(dataset)
 
@@ -56,7 +63,7 @@ def main():
 
     # Split dataset into train and test dataset
     train_x, test_x, train_y, test_y = train_test_split(dataset[training_headers], dataset[target_header],
-                                                        train_size = 0.7)
+                                                        train_size = 0.6)
     # Train and Test dataset size details
     print ("Train_x Shape : ", train_x.shape)
     print ("Train_y Shape : ", train_y.shape)
@@ -82,11 +89,14 @@ def main():
     print ("Train Accuracy : ", accuracy_score(train_y, trained_model.predict(train_x)))
     print ("Test Accuracy  : ", accuracy_score(test_y, predictions))
     
+   
     # load the saved model from disk(For testing purposes)
     loaded_model = joblib.load(filename)
     result = loaded_model.score(test_x,test_y)
     print (">>>>>>>>>>>>>>>>>>>RESULTS<<<<<<<<<<<<<<<")
     print (result)
+
+     
 if __name__ == "__main__":
     main()
 

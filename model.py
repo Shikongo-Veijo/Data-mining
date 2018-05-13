@@ -25,10 +25,10 @@ def main():
 	print ("Test_y Shape : ", test_y.shape)
 
 	loaded_model = joblib.load(filename)
-	result = loaded_model.score(test_x,test_y)
+	#result = loaded_model.score(test_x,test_y)
 	predictions = loaded_model.predict(test_x)
 	print (">>>>>>>>>>>>>>>>>>>RESULTS<<<<<<<<<<<<<<<<")
-	print (result)
+	#print (result)
 	for i in range(0,5):
 		#print (dataset[id][i])
 		print ("Actual outcome : {} and Predicted outcome : {} ID : {}".format(list(test_y)[i], predictions[i], dataset[id][i]))
